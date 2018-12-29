@@ -1,5 +1,9 @@
 # Tic Tac Toe Game
+<<<<<<< HEAD:EINSENDEAUFGABE4_DVCS_AnnaWeigand.py
 # Test comment
+=======
+# Test Branch Comment
+>>>>>>> TestBranch:DVCS.py
 
 import random
 
